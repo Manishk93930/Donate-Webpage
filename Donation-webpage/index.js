@@ -29,8 +29,8 @@ function handlePayment() {
       alert("Please enter the amount");
     } else {
       var options = {
-        key: "rzp_test_qMPGWsNjYkWTZB",
-        key_secret: " raHmRysIUF3BYV3oMgpJz0e6",
+        key: "rzp_live_qijcBzK0AE0Wvt",
+        key_secret: "AKiSQJgvbMw8YpcJLV68qpUu",
         amount: amountvalue * 100,
         currency: "INR",
         name: "Donate",
